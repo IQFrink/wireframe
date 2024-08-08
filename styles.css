@@ -1,0 +1,31 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.colors {
+    border: 3px solid purple;
+}
+
+#violet {
+    border: 1px black solid;
+    margin: 75px;
+    padding: 40px;
+    background-color: blueviolet;
+    color: white;
+}
+
+#orange {
+    border: 1px black solid;
+    margin: 75px;
+    padding: 40px;
+    background-color: rgb(226, 144, 43);
+    color: white;
+}
+
+#green {
+    border: 1px black solid;
+    margin: 75px;
+    padding: 40px;
+    background-color: rgb(42, 151, 38);
+    color: white;
+}
