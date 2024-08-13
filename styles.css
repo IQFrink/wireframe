@@ -4,28 +4,40 @@
 
 .colors {
     border: 3px solid purple;
+    margin: 50px;
+    padding: 10px 20px;
+    display: inline-flex;
+    
 }
 
 #violet {
     border: 1px black solid;
-    margin: 75px;
-    padding: 40px;
-    background-color: blueviolet;
+    margin: 30px;
+    padding: 30px;
+    background-color: rgb(138, 43, 226);
     color: white;
+    position: relative;
 }
 
 #orange {
     border: 1px black solid;
-    margin: 75px;
-    padding: 40px;
+    margin: 30px;
+    padding: 30px;
     background-color: rgb(226, 144, 43);
     color: white;
+    position: relative;
 }
 
 #green {
     border: 1px black solid;
-    margin: 75px;
-    padding: 40px;
+    margin: 30px;
+    padding: 30px;
     background-color: rgb(42, 151, 38);
     color: white;
+    position: relative;
+}
+
+p {
+    white-space: nowrap;
+    font-size: small;
 }
